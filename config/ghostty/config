@@ -41,7 +41,9 @@ window-height = 42
 background-image = /Users/vidgewong/Pictures/00_wallhaven.png
 background-image-fit = stretch
 background-blur-radius = 20
+background-image-opacity = 0.4
 
 # Misc
 adjust-cell-height = 0
 mouse-hide-while-typing = true
+macos-option-as-alt = true
